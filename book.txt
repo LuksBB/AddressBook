@@ -1,0 +1,20 @@
+Name: Lukasz
+Lastname: Boguszko
+Phone number: 731055786
+Email: luksws@gmail.com
+Name: Bartek
+Lastname: Kozak
+Phone number: 500200100
+Email: bitko@wp.pl
+Name: Michal
+Lastname: Boguszko
+Phone number: 533484415
+Email: ziomalekzp@gmail.com
+Name: Henio
+Lastname: Niewiadomy
+Phone number: 123564999
+Email: henio@wp.pl
+Name: John
+Lastname: Tester
+Phone number: 505123456
+Email: johnt@buziaczek.pl
